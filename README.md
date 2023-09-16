@@ -5,6 +5,8 @@
 [![codewars](https://www.codewars.com/users/leggoo/badges/small)](https://www.codewars.com/users/leggoo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakhovets-o)](https://github.com/yakhovets-o/github-readme-stats)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yakhovetso&theme=dark)](https://github.com/yakhovetso/leetcode-stats)
+
 <!--
 **yakhovets-o/yakhovets-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
