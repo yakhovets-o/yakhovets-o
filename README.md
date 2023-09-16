@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Oleg
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-(https://www.codewars.com/users/username/badges/small)(https://www.codewars.com/users/leggoo/badges/small)
+[(https://www.codewars.com/users/username/badges/small)(https://www.codewars.com/users/leggoo/badges/small)]
 <!--
 **yakhovets-o/yakhovets-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
