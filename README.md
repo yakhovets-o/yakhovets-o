@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1 align="center">Hi there, I'm Oleg
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **yakhovets-o/yakhovets-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
