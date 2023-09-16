@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Oleg
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-(https://leetcode-stats-six.vercel.app/api?username=yakhovetso&theme=dark)](https://github.com/yakhovets-o/leetcode-stats)
+[![](https://leetcode-stats-six.vercel.app/api?username=yakhovetso&theme=dark)](https://github.com/yakhovets-o/leetcode-stats)
 
 (https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakhovets-o&theme=solarized_dark)
 <!--
