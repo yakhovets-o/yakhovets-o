@@ -2,9 +2,7 @@
 <h1 align="center">Hi there, I'm Oleg
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![](https://leetcode-stats-six.vercel.app/api?username=yakhovetso&theme=dark)](https://github.com/yakhovets-o/leetcode-stats)
-
-(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakhovets-o&theme=solarized_dark)
+(https://www.codewars.com/users/username/badges/small)(https://www.codewars.com/users/leggoo/badges/small)
 <!--
 **yakhovets-o/yakhovets-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
