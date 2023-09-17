@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-![]([![codewars](https://www.codewars.com/users/leggoo/badges/small)](https://www.codewars.com/users/leggoo))
+[![codewars](https://www.codewars.com/users/leggoo/badges/small)](https://www.codewars.com/users/leggoo) 
 ### Hi there 👋, my name is Oleg
 #### I am python developer
 
