@@ -4,6 +4,9 @@
 
 [![codewars](https://www.codewars.com/users/leggoo/badges/small)](https://www.codewars.com/users/leggoo)
 
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/yakhovets-o/yakhovets-o/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/yakhovets-o/yakhovets-o/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!--
 **yakhovets-o/yakhovets-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
