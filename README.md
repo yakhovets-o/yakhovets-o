@@ -2,10 +2,9 @@
 <h1 align="center">Hi there, I'm Oleg
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<h2 align="left"> I am python developer </h2>
 
 
-### Hi there 👋, my name is Oleg
-#### I am python developer
 
 
 Skills: Python | Sql
