@@ -3,11 +3,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2 align="left"> I`m python developer </h2>
+<h3 ahign="left"> Skills: Python | Sql </h3>
 
 
-
-
-Skills: Python | Sql
 
 [![codewars](https://www.codewars.com/users/leggoo/badges/small)](https://www.codewars.com/users/leggoo) 
 
