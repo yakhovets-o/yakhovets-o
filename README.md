@@ -9,6 +9,7 @@
 
 [![codewars](https://www.codewars.com/users/leggoo/badges/small)](https://www.codewars.com/users/leggoo) 
 
+[![stepik](https://stepik.org/users/347262404/profile)](https://stepik.org/users/347262404/profile)
 
 
 
